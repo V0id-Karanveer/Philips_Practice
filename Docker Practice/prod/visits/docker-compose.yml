@@ -1,0 +1,9 @@
+version: '3'
+services:
+  node_app:
+    restart: on-failure
+    build: .
+    ports:
+      - "8081:8081"
+  redis-server:
+    image: "redis"

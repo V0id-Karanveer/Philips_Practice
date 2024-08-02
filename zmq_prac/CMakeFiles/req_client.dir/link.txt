@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/req_client.dir/PUB_SUB/client.cpp.o -o req_client  /usr/lib/x86_64-linux-gnu/libzmq.so 

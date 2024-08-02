@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  client:
+    build: ./client_container
+    container_name: client_container
+  server:
+    build: ./server_container
+    container_name: server_container
+    ports:
+      - "8081:8080"

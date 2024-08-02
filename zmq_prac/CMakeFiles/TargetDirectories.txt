@@ -1,0 +1,5 @@
+/mnt/c/Users/320263642/OneDrive - Philips/Desktop/0mq_prac/CMakeFiles/ventilator.dir
+/mnt/c/Users/320263642/OneDrive - Philips/Desktop/0mq_prac/CMakeFiles/worker.dir
+/mnt/c/Users/320263642/OneDrive - Philips/Desktop/0mq_prac/CMakeFiles/sink.dir
+/mnt/c/Users/320263642/OneDrive - Philips/Desktop/0mq_prac/CMakeFiles/edit_cache.dir
+/mnt/c/Users/320263642/OneDrive - Philips/Desktop/0mq_prac/CMakeFiles/rebuild_cache.dir

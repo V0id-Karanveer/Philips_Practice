@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Contacts.ContactControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Contacts"
+             mc:Ignorable="d" 
+             d:DesignHeight="90" d:DesignWidth="300">
+    <Grid Background="#FFE5E5E5">
+        <StackPanel Margin="5">
+            <TextBlock Text="ID" x:Name="IDBlock"/>
+            <TextBlock Text="Name" x:Name="NameBlock"/>
+            <TextBlock Text="Email" x:Name="EmailBlock"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

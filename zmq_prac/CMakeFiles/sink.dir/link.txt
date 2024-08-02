@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sink.dir/PUSH-PULL/sink.cpp.o -o sink  /usr/lib/x86_64-linux-gnu/libzmq.so 
