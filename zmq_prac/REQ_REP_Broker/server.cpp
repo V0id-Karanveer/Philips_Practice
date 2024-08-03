@@ -8,7 +8,7 @@ using namespace std;
 int main(){
     zmq::context_t context (1);
     zmq::socket_t socket (context, zmq::socket_type::rep);
-    socket.bind("tcp://*:5559");
+    socket.connect("tcp://localhost:5560");
     cout << "Starting server..." <<  endl;
 
     while (true) {

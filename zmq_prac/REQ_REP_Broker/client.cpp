@@ -9,7 +9,7 @@ int main ()
 {
     zmq::context_t context (1);
     zmq::socket_t socket (context, zmq::socket_type::req);
-    socket.connect ("tcp://localhost:5559");
+    socket.connect("tcp://localhost:5559");
 
     while(1) {
         string req_message;
